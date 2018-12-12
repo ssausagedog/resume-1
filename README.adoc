@@ -15,6 +15,7 @@ business rules.
 # Skills
 
 Nowadays my main responsibilities in a software project are:
+
 * Development & Testing
 * Environment setup/automation & Continuous Integration and Deployment design
 * Technical Grooming & Solution Design
