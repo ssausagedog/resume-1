@@ -1,3 +1,52 @@
 # Resume
 
 My resume/curriculum vitae in asciidoc
+
+# Objectives
+
+To develop mission critical applications as a Cloud/Solution/Software Architect or Technical Leader,
+helping the team to automate, setup, design, implement, test and deploy projects, using the best
+practices in the market, as Agile Methodologies, Continuous Integration and Deployment, Test Driven
+Design, Domain Driven Design and Infrastructure as Code. A polyglot software engineer with more
+than 15 years of experience in the field, working for diverse markets as Finance, Telecom, Energy
+and Logistic, I am always prepared to face high availability/high scale problems or to model complex
+business rules.
+
+# Skills
+
+Nowadays my main responsibilities in a software project are:
+* Development & Testing
+* Environment setup/automation & Continuous Integration and Deployment design
+* Technical Grooming & Solution Design
+* Coaching & Coding Guidance
+* People & Technical Skills Development
+* Architecture Definition, Validation & Evaluation
+* Non-Functional Requirements
+* Communication & Alignment
+* Project Plan & Roadmap
+* Risk Assessment & Management
+* Multi cloud modeling, automation & deployment
+
+# Technical skills
+
+TODO
+
+# Experience
+
+TODO
+
+# Education
+
+TODO
+
+# Courses
+
+TODO
+
+# AWARDS
+
+TODO
+
+# Languages
+
+
