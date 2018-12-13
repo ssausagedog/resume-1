@@ -30,7 +30,27 @@ Nowadays my main responsibilities in a software project are:
 
 # Technical skills
 
-TODO
+
+[cols="35%,65%",frame=none,grid=none]
+|===
+|Computer languages
+|Java, Backend Javascript (NodeJS), Groovy, Python, Scala, Smalltalk
+
+|Protocols & APIs
+|JEE full and micro profiles, Spring & Spring Boot, JMS, MQTT
+
+|Web Frameworks & RIAs
+|Spring MVC, Google Web Toolkit, Vaadin
+
+|Databases
+|Oracle, MySQL, PostgreSQL, Microsoft SQL Server
+
+|Infrastructure Automation
+|Puppet, Ansible, Terraform, CloudFormation
+
+|Cloud Computing & Big Data
+|Hadoop, Sparks, Google Computing Engine, Amazon Web Services
+|===
 
 # Experience
 
