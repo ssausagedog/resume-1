@@ -54,7 +54,14 @@ Nowadays my main responsibilities in a software project are:
 
 # Experience
 
-TODO
+[width="100%",cols="<,>",frame=none,grid=none]
+|===
+|*Wirecard AG*
+|Mar 2016 - Dec 2017
+
+|Software Architect
+|Munich, DE
+|===
 
 # Education
 
@@ -64,7 +71,7 @@ TODO
 
 TODO
 
-# AWARDS
+# Awards
 
 TODO
 
