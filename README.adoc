@@ -38,7 +38,7 @@ Nowadays my main responsibilities in a software project are:
 
 # Technical skills
 
-See my stack in StackShare: image:https://img.shields.io/badge/tech-stack-0690fa.svg?style=flat[link="https://stackshare.io/fbdo/mytechstack"]
+See my stack in image:https://img.shields.io/badge/tech-stack-0690fa.svg?style=flat[link="https://stackshare.io/fbdo/mytechstack"]
 
 Summary:
 
