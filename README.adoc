@@ -2,7 +2,7 @@
 
 My resume/curriculum vitae in asciidoc
 
-# Objectives
+## Objectives
 
 To develop mission critical applications as a Cloud/Solution/Software Architect or Technical Leader,
 helping the team to automate, setup, design, implement, test and deploy projects, using the best
@@ -54,16 +54,59 @@ Nowadays my main responsibilities in a software project are:
 
 # Experience
 
-[width="100%",cols="<,>",frame=none,grid=none]
-|===
-|*Wirecard AG*
-|Mar 2016 - Dec 2017
+### Solution Architect
+BMW AG +
+Munich, DE +
+Dec 2017 - Jan 2019
 
-|Software Architect
-|Munich, DE
-|===
+*   Lorem ipsum dolor sit amet consectetur adipiscing, elit ut in lobortis risus.
+* Lorem ipsum dolor sit amet consectetur adipiscing, elit ut in lobortis risus.
+* Lorem ipsum dolor sit amet consectetur adipiscing, elit ut in lobortis risus.
+* Lorem ipsum dolor sit amet consectetur adipiscing, elit ut in lobortis risus.
+
+### Software Architect
+Wirecard AG +
+Munich, DE +
+Mar 2016 - Dec 2017
+
+*   Lorem ipsum dolor sit amet consectetur adipiscing, elit ut in lobortis risus.
+* Lorem ipsum dolor sit amet consectetur adipiscing, elit ut in lobortis risus.
+* Lorem ipsum dolor sit amet consectetur adipiscing, elit ut in lobortis risus.
+* Lorem ipsum dolor sit amet consectetur adipiscing, elit ut in lobortis risus.
+
+### Scrum Master & Software Engineer
+Wirecard AG +
+Munich, DE +
+May 2014 - Mar 2016
+
+*   Lorem ipsum dolor sit amet consectetur adipiscing, elit ut in lobortis risus.
+* Lorem ipsum dolor sit amet consectetur adipiscing, elit ut in lobortis risus.
+* Lorem ipsum dolor sit amet consectetur adipiscing, elit ut in lobortis risus.
+* Lorem ipsum dolor sit amet consectetur adipiscing, elit ut in lobortis risus.
+
+### Software Architect
+CI&T +
+Campinas, BR +
+Nov 2012 - Mar 2014
+
+*   Lorem ipsum dolor sit amet consectetur adipiscing, elit ut in lobortis risus.
+* Lorem ipsum dolor sit amet consectetur adipiscing, elit ut in lobortis risus.
+* Lorem ipsum dolor sit amet consectetur adipiscing, elit ut in lobortis risus.
+* Lorem ipsum dolor sit amet consectetur adipiscing, elit ut in lobortis risus.
 
 # Education
+
+### Project Management
+Getúlio Vargas Foundation +
+Campinas, BR +
+Jan 2007 - Dec 2008
+
+Classical project management course based on the PMBOK. Main subjects:
+
+*   Lorem ipsum dolor sit amet consectetur adipiscing, elit ut in lobortis risus.
+* Lorem ipsum dolor sit amet consectetur adipiscing, elit ut in lobortis risus.
+* Lorem ipsum dolor sit amet consectetur adipiscing, elit ut in lobortis risus.
+* Lorem ipsum dolor sit amet consectetur adipiscing, elit ut in lobortis risus.
 
 TODO
 
