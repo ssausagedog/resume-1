@@ -6,8 +6,8 @@
 :email: name@mail.com
 :linkedin: http://br.linkedin.com/in/fabiobragaoliveira
 
-_{address}_ +
-_{phone} • {email}_ +
+// _{address}_ +
+// _{phone} • {email}_ +
 _{linkedin}_
 
 # Objectives
