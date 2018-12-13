@@ -171,6 +171,9 @@ Jan 1998 - Jun 2005
 
 # Courses
 
+### AWS Certified Solution Architect
+(in progress)
+
 ### Google Cloud Platform
 * Google Study Practice Test - App Engine Java
 * App Engine Quickstart
