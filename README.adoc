@@ -154,7 +154,8 @@ Classical project management course based on the PMBOK. Main subjects:
 * Project Management Foundations
 * Quality Management
 * Acquisition Management
-* Communication Management • Cost Management
+* Communication Management
+* Cost Management
 * Scope Management
 * People Management
 * Risk Management
