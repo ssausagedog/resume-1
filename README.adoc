@@ -2,7 +2,7 @@
 
 My resume/curriculum vitae in asciidoc
 
-## Objectives
+# Objectives
 
 To develop mission critical applications as a Cloud/Solution/Software Architect or Technical Leader,
 helping the team to automate, setup, design, implement, test and deploy projects, using the best
@@ -59,40 +59,86 @@ BMW AG +
 Munich, DE +
 Dec 2017 - Jan 2019
 
-*   Lorem ipsum dolor sit amet consectetur adipiscing, elit ut in lobortis risus.
-* Lorem ipsum dolor sit amet consectetur adipiscing, elit ut in lobortis risus.
-* Lorem ipsum dolor sit amet consectetur adipiscing, elit ut in lobortis risus.
-* Lorem ipsum dolor sit amet consectetur adipiscing, elit ut in lobortis risus.
+* Solution architect of the autonomous driving car project.
+* Responsible for steering multiple projects and departments to achieve common goals and deadlines.
+* Interface and communication boundaries definitions
+* Definition of non-functional requirements
+ 
+* Modeling and best practices for a high available architecture in the cloud.
+* Technically coaching teams on cloud technologies and infrastructure automation to adopt a cloud native
+architecture.
+* Ramping up/Coaching new internal teams, helping them, POs and stakeholders on adopting agile
+methodologies.
+* Requirements/User stories definitions for external contracts.
+
 
 ### Software Architect
 Wirecard AG +
 Munich, DE +
 Mar 2016 - Dec 2017
 
-*   Lorem ipsum dolor sit amet consectetur adipiscing, elit ut in lobortis risus.
-* Lorem ipsum dolor sit amet consectetur adipiscing, elit ut in lobortis risus.
-* Lorem ipsum dolor sit amet consectetur adipiscing, elit ut in lobortis risus.
-* Lorem ipsum dolor sit amet consectetur adipiscing, elit ut in lobortis risus.
+* Responsible to design solutions and implement them, together with the team.
+* Focus on agility and increased business value.
+* Responsible to automate end-to-end business processes and software processes, applying Continuous
+Integration and Delivery, Infrastructure as Code, automating whetever possible to speedup the time to
+market.
+* Slicing a big legacy monolith in smaller microservices, while keeping backward compatility on a 24/7
+system.
+* Participation on many internal and external events as a presenter, demonstrating technologies for other
+departments and divisions, or as a hiring strategy.
+* Active member of the internal community, implementing Coding Dojo sessions, where in a safe envi-
+ronment developers could try, practice and learn new skills.
+* Active participation on the hiring process, defining processes and applying them.
 
 ### Scrum Master & Software Engineer
 Wirecard AG +
 Munich, DE +
 May 2014 - Mar 2016
 
-*   Lorem ipsum dolor sit amet consectetur adipiscing, elit ut in lobortis risus.
-* Lorem ipsum dolor sit amet consectetur adipiscing, elit ut in lobortis risus.
-* Lorem ipsum dolor sit amet consectetur adipiscing, elit ut in lobortis risus.
-* Lorem ipsum dolor sit amet consectetur adipiscing, elit ut in lobortis risus.
+* Responsible to help the team estimate, plan, design and implement new features required by the product owner, as a member of a Scrum team.
+* Company main business on the finantial market, providing pre-paid cards technology infrastructure for its partners.
+* Strongly multicultural environment.
+* Working in the core module team using agile methodologies to delivery value to the company products.
+* System with hard High Availability requirements. Using a private cloud, multiple nodes and a load
+balance to not require planned downtime.
+* As a Scrum Master my roles and responsibilities are: servant leadership, monitoring and tracking,
+reporting and communication, process master, quality master, interface between team and product owner, resolve impediments, resolve conflicts, lead the scrum meetings, shield the team, team formation, estimation, performance appraisal & feedback and improvement management.
 
 ### Software Architect
 CI&T +
 Campinas, BR +
 Nov 2012 - Mar 2014
 
-*   Lorem ipsum dolor sit amet consectetur adipiscing, elit ut in lobortis risus.
-* Lorem ipsum dolor sit amet consectetur adipiscing, elit ut in lobortis risus.
-* Lorem ipsum dolor sit amet consectetur adipiscing, elit ut in lobortis risus.
-* Lorem ipsum dolor sit amet consectetur adipiscing, elit ut in lobortis risus.
+* Responsible for the pre-sale analysis, design, project setup and deployment of a web application to manage the brazilian Walmart.com’s reverse logistic sector, controlling since the customer return of a product, the technical service sorting and estimation for fixing it, until the storage. The system is responsible for $6 million in products and generate a return of $100.000,00/month. The system uses Spring, Spring MVC, Hibernate and JPA 2 in the backend, and in the frontend HTML5, jQuery and BackboneJS.
+* Responsible for the training of 30+ employees for 2 months about Java technologies, databases and good practices.
+
+### Software Architect
+CFlex BrainMerge +
+Campinas, BR +
+Nov 2010 - Nov 2012
+
+* Responsible for the product customization (a Railroad mainline planner) for a australian client, one of the leaders in the production and refining of metals, the Rio Tinto Iron Ore. The system has a client-server architecture, written in Java Swing.
+* Designed and implemented a Data Mining application to a national railway in Chile, the Empresa de Ferrocarrilles del Estado (EFE), to extract data about the train movements and infrastructure usage, and then, with this data, perform the processing of values owed by freight operators. This system is today responsible for all executives reports, outages predictions and billing.
+* Designed and implemented a new network stack, departing from a stateful Apache Camel protocol to a lightweight and stateless REST-JSON stack, allowing the original system to scale from dozens to hundred of clients.
+
+### Technical Leader
+Símula +
+Campinas, BR +
+Sep 2007 - Nov 2010
+
+* Designed and developed a web application to run into small devices used in forklifts using Google Web Toolkit, a server backend using JEE technologies and a administrative client using the NetBeans Rich Client Platform, to automate the storage and retrieval of products on the paper and cardboard industry, speeding the logistic and reducing the cost of storage.
+* Responsible for the team training and the technical leadership during the main product migration from the legacy platform, in Object Pascal and using a 2-tier architecture, to a much more modern 3-tier architecture using the JEE platform.
+
+### Technical Leader
+CPqD +
+Campinas, BR +
+Jul 2005 - Sep 2007
+
+* Technical leader in the CRM project for a energy supplier in Brazil, the CELG (Companhia Eletrica de Goias).
+* The state of Goias has 6+ million habitants, the CRM needed to process the customers calls and claims, performing well for realtime attendance.
+* Designed software solutions to scale for millions of database records
+* System based on JEE technologies.
+
 
 # Education
 
@@ -103,21 +149,57 @@ Jan 2007 - Dec 2008
 
 Classical project management course based on the PMBOK. Main subjects:
 
-*   Lorem ipsum dolor sit amet consectetur adipiscing, elit ut in lobortis risus.
-* Lorem ipsum dolor sit amet consectetur adipiscing, elit ut in lobortis risus.
-* Lorem ipsum dolor sit amet consectetur adipiscing, elit ut in lobortis risus.
-* Lorem ipsum dolor sit amet consectetur adipiscing, elit ut in lobortis risus.
+* Feasibility Analysis
+* Enterprise Strategy
+* Project Management Foundations
+* Quality Management
+* Acquisition Management
+* Communication Management • Cost Management
+* Scope Management
+* People Management
+* Risk Management
+* Time Management
+* Conflict Management
 
-TODO
+### BSc in Computer Science
+University of Sao Paulo +
+Sao Paulo, BR +
+Jan 1998 - Jun 2005
+
+* Elective disciplines in Administration, Logic, Software Engineering and Artificial Intelligence
+* Activities and groups: IME Junior Enterprise, Artificial Intelligence Group.
 
 # Courses
 
-TODO
+### Google Cloud Platform
+* Google Study Practice Test - App Engine Java
+* App Engine Quickstart
+* Google Study Practice Test - App Engine Python
+* Google Study Practice Test - Big Query Study
+* Google Study Practice Test - Cloud SQL Study
+
+### Big Data Analysis with Scala and Spark
+
+### Parallel Programming
+
+### Functional Program Design in Scala
+
+### Functional Programming Principles in Scala
+
+### Introduction to Recommendation Systems
+
+### Introduction to Natural Computing
+
+### Bio-Inspired Algorithms
+
 
 # Awards
 
 TODO
 
 # Languages
-
+* Portuguese(native)
+* English(advanced)
+* Spanish(advanced)
+* German(intermediate)
 
