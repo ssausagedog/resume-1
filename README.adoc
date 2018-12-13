@@ -1,6 +1,13 @@
-# Resume
+= Fabio Oliveira
+:showtitle!:
+:address: 123 Main Street • Town • EH798FV • Country
+:phone: Tel. +44 (0)997 777 777
+:email: name@mail.com
+:linkedin: http://br.linkedin.com/in/fabiobragaoliveira
 
-My resume/curriculum vitae in asciidoc
+_{address}_ +
+_{phone} • {email}_ +
+_{linkedin}_
 
 # Objectives
 
@@ -31,26 +38,18 @@ Nowadays my main responsibilities in a software project are:
 # Technical skills
 
 
-[cols="35%,65%",frame=none,grid=none]
-|===
-|Computer languages
-|Java, Backend Javascript (NodeJS), Groovy, Python, Scala, Smalltalk
 
-|Protocols & APIs
-|JEE full and micro profiles, Spring & Spring Boot, JMS, MQTT
+Computer languages:: Java, Backend Javascript (NodeJS), Groovy, Python, Scala, Smalltalk
 
-|Web Frameworks & RIAs
-|Spring MVC, Google Web Toolkit, Vaadin
+Protocols & APIs:: JEE full and micro profiles, Spring & Spring Boot, JMS, MQTT
 
-|Databases
-|Oracle, MySQL, PostgreSQL, Microsoft SQL Server
+Web Frameworks & RIAs:: Spring MVC, Google Web Toolkit, Vaadin
 
-|Infrastructure Automation
-|Puppet, Ansible, Terraform, CloudFormation
+Databases:: Oracle, MySQL, PostgreSQL, Microsoft SQL Server
 
-|Cloud Computing & Big Data
-|Hadoop, Sparks, Google Computing Engine, Amazon Web Services
-|===
+Infrastructure Automation:: Puppet, Ansible, Terraform, CloudFormation
+
+Cloud Computing & Big Data:: Hadoop, Sparks, Google Computing Engine, Amazon Web Services
 
 # Experience
 
