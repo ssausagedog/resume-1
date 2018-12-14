@@ -56,7 +56,6 @@ Cloud Computing & Big Data:: Hadoop, Sparks, Google Computing Engine, Amazon Web
 
 
 |Experience
-
 a|### Solution Architect
 BMW AG +
 Munich, DE +
@@ -141,11 +140,9 @@ Jul 2005 - Sep 2007
 * The state of Goias has 6+ million habitants, the CRM needed to process the customers calls and claims, performing well for realtime attendance.
 * Designed software solutions to scale for millions of database records
 * System based on JEE technologies.
-|===
 
-# Education
-
-### Project Management
+|Education
+a|### Project Management
 Getúlio Vargas Foundation +
 Campinas, BR +
 Jan 2007 - Dec 2008
@@ -173,9 +170,9 @@ Jan 1998 - Jun 2005
 * Elective disciplines in Administration, Logic, Software Engineering and Artificial Intelligence
 * Activities and groups: IME Junior Enterprise, Artificial Intelligence Group.
 
-# Courses
 
-### AWS Certified Solution Architect
+|Courses
+a|### AWS Certified Solution Architect
 (in progress)
 
 ### Google Cloud Platform
@@ -200,13 +197,13 @@ Jan 1998 - Jun 2005
 ### Bio-Inspired Algorithms
 
 
-# Awards
+|Awards
+a|TODO
 
-TODO
-
-# Languages
+|Languages
+a|
 * Portuguese(native)
 * English(advanced)
 * Spanish(advanced)
 * German(intermediate)
-
+|===
