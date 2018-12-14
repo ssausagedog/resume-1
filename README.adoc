@@ -35,11 +35,10 @@ a|Nowadays my main responsibilities in a software project are:
 * Project Plan & Roadmap
 * Risk Assessment & Management
 * Multi cloud modeling, automation & deployment
-|===
 
-# Technical skills
 
-Click in the following button to see my stack in StackShare: image:https://img.shields.io/badge/tech-stack-0690fa.svg?style=flat[link="https://stackshare.io/fbdo/mytechstack"]
+|Technical skills
+a|Click in the following button to see my stack in StackShare: image:https://img.shields.io/badge/tech-stack-0690fa.svg?style=flat[link="https://stackshare.io/fbdo/mytechstack"]
 
 Summary:
 
@@ -54,6 +53,7 @@ Databases:: Oracle, MySQL, PostgreSQL, Microsoft SQL Server
 Infrastructure Automation:: Puppet, Ansible, Terraform, CloudFormation
 
 Cloud Computing & Big Data:: Hadoop, Sparks, Google Computing Engine, Amazon Web Services
+|===
 
 # Experience
 
