@@ -53,11 +53,11 @@ Databases:: Oracle, MySQL, PostgreSQL, Microsoft SQL Server
 Infrastructure Automation:: Puppet, Ansible, Terraform, CloudFormation
 
 Cloud Computing & Big Data:: Hadoop, Sparks, Google Computing Engine, Amazon Web Services
-|===
 
-# Experience
 
-### Solution Architect
+|Experience
+
+a|### Solution Architect
 BMW AG +
 Munich, DE +
 Dec 2017 - Jan 2019
@@ -141,7 +141,7 @@ Jul 2005 - Sep 2007
 * The state of Goias has 6+ million habitants, the CRM needed to process the customers calls and claims, performing well for realtime attendance.
 * Designed software solutions to scale for millions of database records
 * System based on JEE technologies.
-
+|===
 
 # Education
 
