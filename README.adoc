@@ -6,23 +6,26 @@
 :email: name@mail.com
 :linkedin: http://br.linkedin.com/in/fabiobragaoliveira
 
-// _{address}_ +
-// _{phone} • {email}_ +
+_{address}_ +
+_{phone} • {email}_ +
 _{linkedin}_
 
-# Objectives
-
-To develop mission critical applications as a Cloud/Solution/Software Architect or Technical Leader,
+[cols="20%,80%",frame=none,grid=none]
+|===
+|Objectives
+|To develop mission critical applications as a Cloud/Solution/Software Architect or Technical Leader,
 helping the team to automate, setup, design, implement, test and deploy projects, using the best
 practices in the market, as Agile Methodologies, Continuous Integration and Deployment, Test Driven
 Design, Domain Driven Design and Infrastructure as Code. A polyglot software engineer with more
 than 15 years of experience in the field, working for diverse markets as Finance, Telecom, Energy
 and Logistic, I am always prepared to face high availability/high scale problems or to model complex
 business rules.
+|===
 
-# Skills
-
-Nowadays my main responsibilities in a software project are:
+[cols="20%,80%",frame=none,grid=none]
+|===
+|Skills
+a|Nowadays my main responsibilities in a software project are:
 
 * Development & Testing
 * Environment setup/automation & Continuous Integration and Deployment design
@@ -35,6 +38,7 @@ Nowadays my main responsibilities in a software project are:
 * Project Plan & Roadmap
 * Risk Assessment & Management
 * Multi cloud modeling, automation & deployment
+|===
 
 # Technical skills
 
