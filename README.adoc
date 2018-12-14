@@ -10,7 +10,7 @@ _{address}_ +
 _{phone} • {email}_ +
 _{linkedin}_
 
-[cols="20%,80%",frame=none,grid=none]
+[cols=".<20,.<80",frame=none,grid=none,width=100%,stripes=none]
 |===
 |Objectives
 |To develop mission critical applications as a Cloud/Solution/Software Architect or Technical Leader,
