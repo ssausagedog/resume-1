@@ -12,8 +12,8 @@ _{linkedin}_
 
 [cols=".<20,.<80",frame=none,grid=none,width=100%,stripes=none]
 |===
-|Objectives
-|To develop mission critical applications as a Cloud/Solution/Software Architect or Technical Leader,
+a|+Objectives+
+a|To develop mission critical applications as a Cloud/Solution/Software Architect or Technical Leader,
 helping the team to automate, setup, design, implement, test and deploy projects, using the best
 practices in the market, as Agile Methodologies, Continuous Integration and Deployment, Test Driven
 Design, Domain Driven Design and Infrastructure as Code. A polyglot software engineer with more
@@ -21,7 +21,7 @@ than 15 years of experience in the field, working for diverse markets as Finance
 and Logistic, I am always prepared to face high availability/high scale problems or to model complex
 business rules.
 
-|Skills
+a|+Skills+
 a|Nowadays my main responsibilities in a software project are:
 
 * Development & Testing
@@ -37,7 +37,7 @@ a|Nowadays my main responsibilities in a software project are:
 * Multi cloud modeling, automation & deployment
 
 
-|Experience
+a|+Experience+
 a|### Solution Architect
 BMW AG +
 Munich, DE +
@@ -123,7 +123,7 @@ Jul 2005 - Sep 2007
 * Designed software solutions to scale for millions of database records
 * System based on JEE technologies.
 
-|Education
+a|+Education+
 a|### Project Management
 Getúlio Vargas Foundation +
 Campinas, BR +
@@ -153,7 +153,7 @@ Jan 1998 - Jun 2005
 * Activities and groups: IME Junior Enterprise, Artificial Intelligence Group.
 
 
-|Courses
+a|+Courses+
 a|* AWS Certified Solution Architect
 (in progress)
 
@@ -175,7 +175,7 @@ a|* AWS Certified Solution Architect
 ** Introduction to Natural Computing
 ** Bio-Inspired Algorithms
 
-|Technical skills
+a|+Technical skills+
 a|Click in the following button to see my stack in StackShare: image:https://img.shields.io/badge/tech-stack-0690fa.svg?style=flat[link="https://stackshare.io/fbdo/mytechstack"]
 
 Summary:
@@ -192,10 +192,12 @@ Infrastructure Automation:: Puppet, Ansible, Terraform, CloudFormation
 
 Cloud Computing & Big Data:: Hadoop, Sparks, Google Computing Engine, Amazon Web Services
 
-|Awards
-a|TODO
+a|+Awards+
+a|NetBeans Innovators Grant 2008
+MONOH project: http://plugins.netbeans.org/plugin/11670/monoh
+Speech Recognizer for Netbeans Actions
 
-|Languages
+a|+Languages+
 a|
 * Portuguese(native)
 * English(advanced)
