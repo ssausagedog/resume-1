@@ -154,29 +154,26 @@ Jan 1998 - Jun 2005
 
 
 |Courses
-a|### AWS Certified Solution Architect
+a|* AWS Certified Solution Architect
 (in progress)
 
-### Google Cloud Platform
-* Google Study Practice Test - App Engine Java
-* App Engine Quickstart
-* Google Study Practice Test - App Engine Python
-* Google Study Practice Test - Big Query Study
-* Google Study Practice Test - Cloud SQL Study
+* Google Cloud Platform
+** Google Study Practice Test - App Engine Java
+** App Engine Quickstart
+** Google Study Practice Test - App Engine Python
+** Google Study Practice Test - Big Query Study
+** Google Study Practice Test - Cloud SQL Study
 
-### Big Data Analysis with Scala and Spark
+* Coursera
+** Big Data Analysis with Scala and Spark
+** Parallel Programming
+** Functional Program Design in Scala
+** Functional Programming Principles in Scala
+** Introduction to Recommendation Systems
 
-### Parallel Programming
-
-### Functional Program Design in Scala
-
-### Functional Programming Principles in Scala
-
-### Introduction to Recommendation Systems
-
-### Introduction to Natural Computing
-
-### Bio-Inspired Algorithms
+* University of Campinas
+** Introduction to Natural Computing
+** Bio-Inspired Algorithms
 
 |Technical skills
 a|Click in the following button to see my stack in StackShare: image:https://img.shields.io/badge/tech-stack-0690fa.svg?style=flat[link="https://stackshare.io/fbdo/mytechstack"]
